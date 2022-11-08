@@ -22,6 +22,7 @@ module.exports = {
     ],
     "rules": {
         "Missing semicolon.eslint": 0,
-        "react/react-in-jsx-scope": "off"
+        "react/react-in-jsx-scope": "off",
+        "no-unused-vars": 2
     }
 }
