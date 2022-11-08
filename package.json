@@ -38,10 +38,5 @@
       "eslint --ignore-path .eslintignore --fix",
       "git add"
     ]
-  },
-  "commitlint": {
-    "extends": [
-        "@commitlint/config-conventional"
-    ]
   }
 }
